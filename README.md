@@ -16,7 +16,3 @@ This project focuses on strengthening core programming concepts such as user inp
 * Python (Core concepts only)
 
 This project is ideal for beginners looking to understand how fundamental logic and control flow work in real-world applications.
-
----
-
-If you want, I can also give you a **short one-line description** (for the GitHub “About” section).
